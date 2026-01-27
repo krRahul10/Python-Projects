@@ -40,3 +40,11 @@ else:
 sal = int(input("Salary : "))
 tax = sal*(0.1, 0.3) [sal >= 50000]
 print(tax)
+
+# Assignment operator
+
+num = 10
+num = num 
+num= num**5
+print(num)
+
